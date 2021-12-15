@@ -1,0 +1,73 @@
+/* Media Query For Desktop */
+@media only screen and (min-width: 1200px) {
+}
+@media only screen and (max-width: 768px) {
+  .tong1 {
+    padding-top: 10px;
+  }
+  .chu h3 {
+    font-size: 2.2em;
+  }
+  svg {
+    margin-top: -40px;
+    margin-left: 15px;
+    font-size: 8.5em;
+  }
+  .console-container {
+    margin-top: -60px;
+    font-size: 2.4em;
+  }
+  .circular-bg {
+    margin-top: 60px;
+    margin-right: 150px;
+    text-align: center;
+  }
+  /* phanduoi */
+  header {
+    height: 700px;
+  }
+  .who {
+    flex-direction: column;
+    padding: 20px;
+  }
+  .html {
+    margin-top: 20px;
+  }
+  .with {
+    margin-top: 40px;
+  }
+  .chu1 {
+    margin-left: 0px;
+  }
+  .img {
+    text-align: center;
+    margin-top: 20px;
+  }
+  /* phan3khoahoc */
+  .tong2 {
+    padding: 20px;
+    height: 1406px;
+    text-align: center;
+  }
+  .khoahoc {
+    flex-direction: column;
+    margin-left: -4px;
+    margin-top: 10px;
+  }
+  .from {
+    width: 380px;
+    height: 150px;
+  }
+  .tong2 img {
+    width: 380px;
+    height: 230px;
+    object-fit: cover;
+  }
+  .from1 {
+    width: 380px;
+    height: 150px;
+  }
+  .top1 {
+    margin: 10px 0px;
+  }
+}
